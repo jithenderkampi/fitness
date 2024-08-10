@@ -1,0 +1,375 @@
+@media screen and (max-width: 1520px){
+    .container{
+        width: 1199px;
+    }
+    .header-bottom-inner .para {
+        transform: translatex(30px);
+    }
+    .header-bottom-inner .para1 {
+        transform: translatex(20px);
+    }
+    .header-bottom-inner .para2 {
+        transform: translatex(10px);
+    }
+    .ourzym{
+        padding: 125px 20px 155px;
+    }
+    .images-content img{
+        width: 100%;
+        max-height: 256px;
+    }
+    .logo{
+        width: 63%;
+    }
+    nav{
+        width: 36.5%;
+    }
+    .header-top {
+        padding: 35px 30px 45px;
+    }
+}
+@media screen and (max-width: 1199px){
+    .container{
+        width: 980px;
+    }
+    .one img, .two img, .three img, .four img, .five img {
+        width: 196px;
+        max-height: 175px;
+    }
+    .logo {
+        display: inline-block;
+        width: 54%;
+        vertical-align: middle;
+    }
+    nav {
+        display: inline-block;
+        width: 45.5%;
+        vertical-align: middle;
+    }
+    .header-bottom-content p {
+        word-spacing: 2px;
+        font-size: none;
+    }
+    .header-bottom-inner .para {
+        transform: translatex(3px);
+    }
+    .header-bottom-inner .para1 {
+        transform: translatex(2px);
+    }
+    .header-bottom-inner .para2 {
+        transform: translatex(2px);
+    }
+    .header-bottom img {
+        height: 300px;
+    }
+    .header-bottom-inner {
+        width: 980px;
+    }
+    .home-part-inner img{
+        width: 100%;
+    }
+    .our1 img, .our2 img, .our3 img{
+        width: 287px;
+        max-height: 240px;
+    }
+    .ourgym-inner-content img{
+        width: 100%;
+    }
+    .contactus-center-inner1 p {
+        font-size: 16px;
+    }
+    .contactus-center-inner1 span {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 979px){
+    .container{
+        width: 750px;
+    }
+    .logo{
+        width: 41%;
+    }
+    nav{
+        width: 58%;
+    }
+    .header-bottom img {
+        height: 342px;
+    }
+    .header-bottom-inner .para {
+        transform: translatex(3px);
+    }
+    .header-bottom-inner .para1 {
+        transform: translatex(-53px);
+    }
+    .header-bottom-inner .para2 {
+        transform: translatex(-133px);
+    }
+    .header-bottom-content p{
+        margin-right: 100px;
+    }
+    .header-bottom-inner{
+        padding: 0 10px;
+    }
+    .home-part h4{
+        font-size: 60px;
+    }
+    .home-part h5{
+        font-size: 45px;
+    }
+    .home-part-inner{
+        margin-bottom: 20px;
+    }
+    .home-part-inner:last-child{
+        margin-bottom: 0;
+    }
+    .home-part2{
+        flex-wrap: wrap;
+    }
+    .ourgym-inner-content a{
+        margin-bottom: 20px;
+    }
+    .ourgym-inner{
+        flex-wrap: wrap;
+    }
+    .our3 a{
+        margin-bottom: 0;
+    }
+    .form input {
+        margin-bottom: 20px;
+    }
+    .one, .two, .three, .four, .five {
+        margin: 20px;
+    }
+    .images{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .clasespage-content-inner1 p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .classesinner {
+        padding-top: 30px;
+    }
+    .clasespage-content-inner1 h5 {
+        font-size: 20px;
+    }
+    .clasespage-content-inner2 p {
+        font-size: 15px;
+    }
+    .clasespage-content h3 {
+        font-size: 52px;
+    }
+    .classmid {
+        padding: 85px 0 200px;
+    }
+    .contactus-center {
+        flex-wrap: wrap;
+    }
+    .contactus-inner p {
+        font-size: 14px;
+    }
+    .contactus {
+        padding: 75px 0 150px;
+    }
+    .contactus-center-inner1 p {
+        padding-top: 30px;
+    }
+}
+
+@media screen and (max-width: 767px){
+    .container{
+        width: 96%;
+    }
+    .logo, nav{
+        width: 100%;
+        text-align: center;
+    }
+    nav ul li+li::before{
+        content: "";
+    }
+    nav ul li{
+        display: block;
+        padding: 2px;
+    }
+    .header-center h1{
+        font-size: 60px;
+    }
+    .header-center h2{
+        font-size: 40px;
+    }
+    .header-center a{
+        margin: 10px 25px;
+    }
+    .header-center {
+        padding: 100px 0 100px;
+    }
+    .header-bottom-inner{
+        flex-wrap: wrap;
+    }
+    .header-bottom {
+        height: 1040px;
+    }
+    .clases-inner{
+        flex-wrap: wrap;
+    }
+    .clases-inner1{
+        flex-wrap: wrap;
+    }
+    .header-bottom img {
+        width: 0;
+        height: 0;
+    }
+    .header-bottom-inner{
+        width: 100%;
+        padding: 0 20px;
+    }
+    .header-bottom-content{
+        width: 100%;
+    }
+    .header-bottom-content p {
+        font-size: 15px;
+    }
+    .header-bottom-inner .para {
+        transform: translatex(-16px);
+    }
+    .header-bottom-inner .para1 {
+        transform: translatex(-17px);
+    }
+    .header-bottom-inner .para2 {
+        transform: translatex(-17px);
+    }
+    .home-part h5 {
+        font-size: 36px;
+    }
+    .home-part h4 {
+        font-size: 46px;
+    }
+    .home{
+        padding: 90px 0 120px 0;
+    }
+    .clases-inner-content{
+        border-right: none;
+    }
+    .clases-inner-content p {
+        font-size: 12px;
+    }
+    .clases-inner-content h2 {
+        font-size: 25px;
+    }
+    .clases-inner-content img{
+        padding-top: 30px;
+    }
+    .clases-inner {
+        padding: 65px 35px 0px 30px;
+    }
+    .clases-inner1 {
+        padding: 0px 35px 75px 30px;
+    }
+    .ourgym-inner-content {
+        margin-right: 0;
+    }
+    .our1 img, .our2 img, .our3 img {
+        width: 100%;
+        max-height: 240px;
+    }
+    .form input {
+        width: 290px;
+        margin-right: 0;
+    }
+    footer p {
+        font-size: 15px;
+        padding-top: 10px;
+    }
+    footer h4 {
+        font-size: 20px;
+    }
+    .ourzym-center-content img{
+        text-align: center;
+    }
+    .ourgym-inner-content img{
+        width: 100%;
+    }
+    .pagination {
+        padding-bottom: 140px;
+    }
+    .ourgym-inner{
+        flex-wrap: wrap;
+    }
+    .pagination li a {
+        margin-right: 0;
+    }
+    .clasespage-content h3 {
+        font-size: 50px;
+        padding: 60px 0 60px;
+    }
+    .clasespage-content-inner1 {
+        width: 200px;
+        height: 300px;
+        padding: 25px 24px 20px;
+    }
+    .clasespage-content-inner1 h5 {
+        font-size: 13px;
+        padding-bottom: 11px;
+    }
+    .clasespage-content-inner1 p {
+        font-size: 9px;
+        line-height: 11px;
+    }
+    .classesinner {
+        padding-top: 25px;
+    }
+    .clasespage-content-inner2 {
+        border-top: 2px solid #b9b9b9;
+        border-bottom: 2px solid #b9b9b9;
+        border-right: 2px solid #b9b9b9;
+        width: 110px;
+        height: 300px;
+        padding: 30px 10px;
+    }
+    .clasespage-content-inner2 p {
+        font-family: 'Montserrat';
+        font-size: 8px;
+        color: #545454;
+    }
+    .classmid {
+        padding: 70px 0 140px;
+    }
+    .contactus-inner h3 {
+        font-size: 50px;
+    }
+    .contactus-center-inner form input {
+        margin-right: 0;
+    }
+    .contactus-center-inner form input {
+        width: 293px;
+        height: 76px;
+    }
+    .contactus-center-inner form input.forminner {
+        width: 293px;
+        height: 220px;
+    }
+    .contactus-center-inner1 p {
+        font-size: 14px;
+        padding-bottom: 30px;
+    }
+    .contactus-center-inner1 h3 img {
+        margin-right: 15px;
+    }
+    .contactus-center-inner1 span {
+        font-size: 20px;
+    }
+    .contactus {
+        padding: 75px 0 75px;
+    }
+    .contactus-center-inner1 h3 {
+        padding-bottom: 30px;
+    }
+    .contactus-center {
+        flex-wrap: wrap;
+    }
+    .container #hr1{
+        display: none;
+    }
+}
